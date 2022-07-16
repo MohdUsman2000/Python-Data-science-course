@@ -3,7 +3,7 @@ this is my code
 my second python class in digipodium
 
 
-- python 
+- [] python 
 - data structure
 - mini project 
 
