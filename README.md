@@ -1,4 +1,4 @@
-# My name
+# My Course
 this is my code 
 my second python class in digipodium
 
