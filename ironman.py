@@ -45,7 +45,7 @@ logo(canvas2, canvas2Goto)
 logo(canvas3, canvas3Goto)
 turtle.hideturtle()
 turtle.done()'''
-
+'''
 from turtle import *
 
 speed(13) # Painting speed control
@@ -315,4 +315,4 @@ right(-250)
 circle(-90,60)
 circle(-40,120)
 end_fill()
-done()
+done()'''
